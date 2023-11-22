@@ -43,11 +43,14 @@
     display: block;
     text-decoration: none;
     margin-bottom: 1em;
+    align-items: end;
+
     }
     
     .botao_secundario {
     background-color: transparent;
     border: 2px solid var(--branco-principal);
+    
     }
     
     .container__aviso {
